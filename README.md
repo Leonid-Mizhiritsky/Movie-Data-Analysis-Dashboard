@@ -3,12 +3,15 @@
 ## Table of Content:
 
 - [Project Overview](#Project-Overview)
-
+- [Data Source](#Data-Source)
+- [Tools](#Tools)
+- [Results](#Results-and-Findings)
+- [Dashboard](#Active-Excel-Dashboard)
 
 ## Project Overview
 This data analysis project explores movie performance and trends between 2012 and 2016, aiming to uncover patterns, generate data-driven insights, and provide informed recommendations for a deeper understanding of the film industry's dynamics.
 
-## Data Sources
+## Data Source
 Movie Data Project: The main dataset for this analysis is the 'Movies Data' file, which includes detailed information on movie performance, cast, directors, and other key attributes.
 
 the dataset file can be downloaded here - [Movies Data](https://github.com/user-attachments/files/20759568/Movies.Data.Ready.for.Dashboard.xlsx)
