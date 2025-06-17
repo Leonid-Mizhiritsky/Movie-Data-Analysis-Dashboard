@@ -6,7 +6,7 @@
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
 - [Results](#Results-and-Findings)
-- [Dashboard](#Active-Excel-Dashboard)
+- [Dashboard](#Interactive-Excel-Dashboard)
 
 ## Project Overview
 This data analysis project explores movie performance and trends between 2012 and 2016, aiming to uncover patterns, generate data-driven insights, and provide informed recommendations for a deeper understanding of the film industry's dynamics.
